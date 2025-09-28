@@ -1,0 +1,23 @@
+- **Modell** einer Formel angeben oder begründen, warum unerfüllbar
+	- In AL, FOL, SOL
+- **Redukte** einer Wortstrukur angeben
+- **Substrukturen** angeben
+- **Substitution** 
+- Wandeln in **Negationsnormalform**
+- **Gebe L({E})-Satz φ** an, sodass eine Grapheigenschaft gilt
+- **Simplify-Algorithmus**
+- **DPLL**
+- Zeigen, dass Formel **allgemeingültig** ist
+- Zeigen oder widerlegen, dass Problem **entscheidbar** ist (das Problem ist eine Sequenz, und ein **Sequenzenkalkül** für FOL ist gegeben)
+- **Faktorisierte Termstruktur** angeben oder graphisch darstellen
+- Lückentext über **Unentscheidbarkeit des Erfüllbarkeitsproblems in FOL**
+- **EF-Spiel**. Kleinster **Quantorenrang** angeben
+- **Bisimulationsspiel mit Kripkestrukturen**
+- Zeigen oder widerlegen, ob Strukturen **erststufig definierbar** sind
+- Zeigen oder widerlegen, ob eine **modallogische Formel φ** existiert, sd. für alle **Kripkestrukturen** und alle Welten gilt ...
+- **Erweiterung** des Alphabets der FOL: 
+	- Modell angeben zu einer Formel in Erw.
+	- Algorithmus beschreiben
+- Lückentext über **erststufige Definierbarkeit**
+- Zeigen oder widerlegen: **Klassen** von Strukturen sind **erststufig defbar**, dann deren Vereinigung auch.
+- Geben Sie **erststufig defbare Klasse** an, sodass alle Vereinigungen aller solchen Klassen nicht erststufig defbar ist.

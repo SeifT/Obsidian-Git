@@ -1,0 +1,4 @@
+"From 1810, article 64 states that there is neither crime nor offense if the offender was of unsound mind at the time of the act.
+The possibility of ascertaining madness was, therefore a quite separate matter from the definition of an act as a crime; the gravity of the act was not altered by thee fact that its author was insane, nor the punishment reduced as a consequence; the crime itself disappeared. It was impossible therefore, to declare that someone was both guilty and mad; once the diagnosis of madness had been accepted."
+
+- What is the risk that comes with this? Freeing a sane impostor, to save a minuscule minority of insane people from incarceration?

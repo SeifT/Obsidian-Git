@@ -1,0 +1,1 @@
+The idea of a fanbase that is fanatic for their club and say chants not for their own enjoymment, but for adornment and subservience to the club is intriguing

@@ -1,0 +1,5 @@
+- **Identify Key Concepts:**  Go through slides & assignment sheets and identify key concepts and main topics.
+	- Create an overview of these main topics and their respective key concepts.
+- **Take Notes Strategically:** Use different resources to understand each concept. Write down vague notes for each. Don't worry about writing all the notes perfectly.
+- **Engage in Active Learning:** Track your studying time. Every hour or so of studying "query" your mind about what you learned in the past hour and ask questions in order to further your understanding 
+- **Do the assignments:** Don't do every single assignment. Identify which are the most important for your understanding and for the exam. Create an overview/checklist of which exercises these are and make a plan of getting through them, temporally.

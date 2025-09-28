@@ -1,0 +1,1 @@
+Conceptual models/Mental models are the understanding in the minds of users of how certain products work. In our daily life, we create a conceptual or mental model about everything we interact with. We use that knowledge while interacting with new things.

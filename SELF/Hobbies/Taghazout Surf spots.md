@@ -1,0 +1,81 @@
+- **Anza:**
+	- Season: Summer
+	- Level: Beginner-*Intermediate*
+	- Features: best potential when other spots are too small
+	- Personal Notes: Surfed 07.06.2025. Waves were small in Taghazout. Anza was big. Two breaks, one on the shore for beginners, one for more advanced surfers. Bigger break outside has consistent sets with waves with A-Frames that can go anywhere from a few seconds to 10 second waves.
+- **Banana Point:**
+	- Season: All year
+	- Level: *Beginner*-Intermediate
+	- Features: break point, small wave, crowded, mushy right hander, nice sunset
+- **Spiders:**
+	- Season: -
+	- Level: Advanced
+	- Features: reef break, not very consistent, large smooth barrels
+- **Devil's Rock:**
+	- Season: May-September
+	- Level: All
+	- Features: A-frames, 1.5-2m waves, nice beach, popular spot
+	- Personal Notes: Surfed 06.06.2025. Great spot for beginners. Only one break. Rights and lefts. Nothing special for advanced surfers.
+- **Crocos:**
+	- Season: All year
+	- Level: *Beginner*-All
+	- Features: more lefts than rights, most consistent break in Taghazout area, mid to high-tide is best, can get crowded
+- **Panoramas:**
+	- Season: September-April
+	- Level: Beginner-*Intermediate*-Advanced
+	- Features: right handers at point, right and left at beach break, very central in Tagh, much less crowded than Anchor Point
+- **Hash Point:**
+	- Season: All year
+	- Level: All
+	- Features: right hander, smaller and softer than Anchor Point, sandy bottom, maroc belly proneness, "not the best in Morocco by any stretch, but it's playful"
+- **Anchor Point:**
+	- Season: September-April
+	- Level: Intermediate-*Advanced*
+	- Features: most famous wave, on a good day rides for hundreds of meters, crowded!
+- **Mysteries:**
+	- Season: Winter
+	- Level: Intermediate-Advanced
+	- Features: mostly rights, reef break, one of the biggest suckiest take offs, also good on smaller days, not as consistent as AP but can match it on good days
+- **Killers:**
+	- Season: *Advanced*
+	- Level: October-March
+	- Features: right hander, powerful, fast waves, swell-dependent, most consistent of the point breaks in Tagh
+- **Camel Point:**
+	- Season: -
+	- Level: *Beginners*-All
+	- Features: left and right handers, dromedaries frequent it, 
+- **Desert Point:**
+	- Season:
+	- Level: Intermediate-Advanced
+	- Features: right hander, rocky, not very crowded, mellow, 
+- **Draculas:**
+	- Season: -
+	- Level: Advanced
+	- Features: fast right hander, barrelling, "Boilers' evil twin"
+- **Boilers:**
+	- Season: Best in November-February
+	- Level: Intermediate-*Advanced*
+	- Features: right hander, big fast wave, reef break,
+- **La Source:**
+	- Season: -
+	- Level: All
+	- Features: A-frame, works on low and high tides, 
+- **K11:**
+	- Season: -
+	- Level: All
+	- Features: A-frame, hard rock reef floor
+- **K12:**
+	- Season: -
+	- Level: All
+	- Features: deep reef break, lefts and rights, peaky, slow wave
+- **K17:**
+	- Season: -
+	- Level: *Beginner*-Intermediate
+	- Features: A-frame, hard rock reef floor, close-outs in big swells, best in rising to high tides
+- **Imsouane:**
+	- Season: All
+	- Level: All
+	- Features: Two different spots. 
+		- Outside of the bay: Voluminous, fast waves. At the far left (looking at shore) you have right handers. In the middle there are sometimes smaller peaks which are mostly closeouts. To the right there are left handers with less power and volume than the left area. Best time at turnover from high to low tide.
+		- Inside the bay: Longboard spot. smaller waves but they go for loooong. Right handers only. There are many breaks that start at the shoulder of the bay, next to the port, and then progressively a few more breaks the more the wave goes right. In winter the wave starts even behind the port, outside of the bay.
+	- Personal Notes. Surfed 08.06.2025. Amazing spot!

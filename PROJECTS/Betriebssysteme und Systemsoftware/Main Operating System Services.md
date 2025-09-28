@@ -1,0 +1,10 @@
+- Program Management
+	- execution environment, synchronization, scheduling, etc.
+- Memory Management
+	- memory allocation, isolation
+- File Management
+	- file system, standardized API, cache, etc.
+- Network Management
+	- network topology, protocols, APIs, etc.
+- Human Interface
+	- IO peripherals, display, etc.

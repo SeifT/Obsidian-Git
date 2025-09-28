@@ -1,0 +1,1 @@
+The Clearing House as a centralized component is responsible for aggregating and maintaining a comprehensive, tamper-proof audit log of all data transactions and usage within a Data Space.
