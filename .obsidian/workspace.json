@@ -101,14 +101,14 @@
             "id": "b4f1ec2d4be81c15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Freeing up root partition space.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Freeing up root partition space"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -303,23 +303,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc372b0e11b36045",
+  "active": "b4f1ec2d4be81c15",
   "lastOpenFiles": [
+    "Freeing up root partition space.md",
+    "Football manager manufactured slowness.md",
+    "About our Distance.md",
     "Untitled.md",
     "Questions for the Fachschaft.md",
-    "Freeing up root partition space.md",
     "home/seift/Documents/Obsidian-Backups",
     "home/seift/Documents",
     "home/seift",
     "home",
     "Hooligans.md",
-    "Football manager manufactured slowness.md",
     "Insensitive.md",
     "Auto-Numb.md",
     "Avoidance.md",
     "Dissociation.md",
     "Writing Backlog.md",
-    "About our Distance.md",
     "AREAS/The Design of Everyday Things/Gulf of Evaluation.md",
     "ARCHIVES/Notes for Daimon.md",
     "AREAS/The Design of Everyday Things/Gulf of Execution.md",
